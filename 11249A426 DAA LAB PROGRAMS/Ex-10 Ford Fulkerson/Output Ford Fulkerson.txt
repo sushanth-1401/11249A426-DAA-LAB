@@ -1,0 +1,8 @@
+Enter number of vertices: 4
+Enter capacity matrix:
+0 10 5 0
+0 0 15 10
+0 0 0 10
+0 0 0 0
+Enter source and sink: 0 3
+Maximum flow: 15
